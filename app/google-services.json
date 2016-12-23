@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "713302998574",
+    "firebase_url": "https://approach-f26b6.firebaseio.com",
+    "project_id": "approach-f26b6",
+    "storage_bucket": "approach-f26b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713302998574:android:bc70c833320109ab",
+        "android_client_info": {
+          "package_name": "com.amitupadhyay.ait.approach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713302998574-5irpd9v9hc8n7m2iumlgg1qrmeb18dbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcOth8rMjpVe3qnYj6ft_YHSujHGcHBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

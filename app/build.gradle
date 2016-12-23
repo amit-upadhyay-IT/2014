@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.mxn.soul.flowingdrawer"
+        applicationId "com.amitupadhyay.ait.approach"
         minSdkVersion 9
         targetSdkVersion 23
         versionCode 120
@@ -31,3 +31,4 @@ dependencies {
     compile 'com.github.bumptech.glide:glide:3.7.0'
     compile 'com.android.support:support-v4:23.0.0'
 }
+apply plugin: 'com.google.gms.google-services'
